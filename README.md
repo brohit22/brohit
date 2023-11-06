@@ -30,8 +30,9 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/brohit22/Disney-clone">
-    <img src="https://disney-clone-ochre.vercel.app/" alt="Disney Clone">
+  <a href="https://disney-clone-ochre.vercel.app/">
+    <img src="https://github.com/brohit22/Disney-clone/assets/127715071/9cc1d432-9618-43bc-aeba-2e1f4c66605b" alt="Disney Clone">
+    
   </a>
 <!--   <a href="https://github.com/brohit23/react-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=react-app&theme=radical" alt="React App">
