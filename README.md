@@ -1,6 +1,6 @@
 <!-- Header -->
 <p align="center">
-  <img src="https://pbs.twimg.com/profile_images/1648918758017368065/11S6vsf-_400x400.jpg" width="150" height="150" alt="Rohit Bhatade">
+  <img src="https://media.licdn.com/dms/image/D4D16AQE40UdXzrSXyQ/profile-displaybackgroundimage-shrink_350_1400/0/1679236415707?e=1704931200&v=beta&t=bKM6r7sm3CIQ0-BQBFHz3GRsB_hf2N0hw3w5uo_9bMU" width="100%" height="25%" alt="Rohit Bhatade">
 </p>
 
 <h1 align="center">Hi there! 👋 I'm Rohit Bhatade</h1>
