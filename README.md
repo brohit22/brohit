@@ -1,18 +1,18 @@
 <!-- Header -->
 <p align="center">
-  <img src="your-profile-image-url" width="150" height="150" alt="Your Name">
+  <img src="https://pbs.twimg.com/profile_images/1648918758017368065/11S6vsf-_400x400.jpg" width="150" height="150" alt="Rohit Bhatade">
 </p>
 
-<h1 align="center">Hi there! 👋 I'm Your Name</h1>
+<h1 align="center">Hi there! 👋 I'm Rohit Bhatade</h1>
 
 <!-- Introduction -->
-<p align="center">A passionate developer interested in [Your Interests/Specialization].</p>
+<p align="center">A passionate developer interested in [Web Design and Development ].</p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="https://your-website-url">Website</a> •
-  <a href="https://twitter.com/your-twitter">Twitter</a> •
-  <a href="https://linkedin.com/in/your-linkedin">LinkedIn</a>
+  <a href="#">Website</a> •
+  <a href="https://twitter.com/Mr_Mic_200r">Twitter</a> •
+  <a href="https://www.linkedin.com/in/brohit23/">LinkedIn</a>
 </p>
 
 <!-- Technologies & Tools -->
@@ -41,9 +41,9 @@
 
 <!-- Contact Me -->
 ### 📫 How to reach me:
-- Email: your.email@example.com
+- Email: rohitbhatade200@gmail.com
 - Portfolio: [https://your-website-url](https://your-website-url)
-- LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/your-linkedin)
+- LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/brohit23/)
 
 <!-- Footer -->
 <p align="center">
