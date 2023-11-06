@@ -36,9 +36,9 @@
   </a>
    <a href="https://github.com/brohit23/react-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=react-app&theme=radical" alt="React App">
-  </a> -->
+  </a>
 </p>
-
+ -->
 <!-- Contact Me -->
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
@@ -49,7 +49,7 @@
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge" alt="Visitor Badge">
+ <img src="https://visitor-badge.glitch.me/badge?page_id=brohit23.brohit23" alt="Visitor Badge">
 </p>
 
 <!-- Acknowledgements -->
