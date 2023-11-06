@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="center">
+<p align="right">
   <img src="https://pbs.twimg.com/profile_images/1648918758017368065/11S6vsf-_400x400.jpg" width="150" height="150" alt="Rohit Bhatade">
 </p>
 
@@ -30,25 +30,25 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/brohit23/portfolio-website">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=portfolio-website&theme=radical" alt="Portfolio Website">
+  <a href="https://github.com/brohit22/Disney-clone">
+    <img src="https://disney-clone-ochre.vercel.app/" alt="Disney Clone">
   </a>
-  <a href="https://github.com/brohit23/react-app">
+<!--   <a href="https://github.com/brohit23/react-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=react-app&theme=radical" alt="React App">
-  </a>
+  </a> -->
 </p>
 
 <!-- Contact Me -->
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
   <a href="mailto:rohitbhatade200@gmail.com">rohitbhatade200@gmail.com</a><br>
-  Portfolio: <a href="https://your-portfolio-url.com">https://your-portfolio-url.com</a><br>
+<!--   Portfolio: <a href="https://your-portfolio-url.com">https://your-portfolio-url.com</a><br> -->
   LinkedIn: <a href="https://linkedin.com/in/brohit23/">https://linkedin.com/in/brohit23/</a>
 </p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=brohit23.brohit23" alt="Visitor Badge">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=jwenjian.visitor-badge" alt="Visitor Badge">
 </p>
 
 <!-- Acknowledgements -->
