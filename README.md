@@ -1,5 +1,5 @@
 <!-- Header -->
-<p align="right">
+<p align="center">
   <img src="https://pbs.twimg.com/profile_images/1648918758017368065/11S6vsf-_400x400.jpg" width="150" height="150" alt="Rohit Bhatade">
 </p>
 
@@ -25,7 +25,7 @@
 </p>
 
 <!-- GitHub Stats & Featured Projects -->
-<p align="center">
+<!--<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brohit23&show_icons=true&theme=radical" alt="Rohit Bhatade's GitHub Stats">
 </p>
 
@@ -34,7 +34,7 @@
     <img src="https://github.com/brohit22/Disney-clone/assets/127715071/9cc1d432-9618-43bc-aeba-2e1f4c66605b" alt="Disney Clone">
     
   </a>
-<!--   <a href="https://github.com/brohit23/react-app">
+   <a href="https://github.com/brohit23/react-app">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=react-app&theme=radical" alt="React App">
   </a> -->
 </p>
