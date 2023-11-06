@@ -6,57 +6,56 @@
 <h1 align="center">Hi there! 👋 I'm Rohit Bhatade</h1>
 
 <!-- Introduction -->
-<p align="center">A passionate developer interested in [Web Design and Development ].</p>
+<p align="center">Passionate Web Developer with a flair for creativity and a knack for building stunning digital experiences.</p>
 
 <!-- Social Links -->
 <p align="center">
-  <a href="#">Website</a> •
+  <a href="#">Portfolio</a> •
   <a href="https://twitter.com/Mr_Mic_200r">Twitter</a> •
   <a href="https://www.linkedin.com/in/brohit23/">LinkedIn</a>
 </p>
 
 <!-- Technologies & Tools -->
-### Technologies & Tools
-<p>
-  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow">
-  <img src="https://img.shields.io/badge/Code-React-informational?style=flat&logo=react&logoColor=white&color=blue">
-  <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=blue">
-  <!-- Add more technologies and tools as needed -->
+<h3 align="center">Technologies & Tools</h3>
+<p align="center">
+  <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow">
+  <img src="https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=white&color=61dafb">
+  <img src="https://img.shields.io/badge/Code-Node.js-informational?style=for-the-badge&logo=node.js&logoColor=white&color=green">
+  <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC">
 </p>
 
-<!-- GitHub Stats -->
-### GitHub Stats
+<!-- GitHub Stats & Featured Projects -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical" alt="Your Name's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=brohit23&show_icons=true&theme=radical" alt="Rohit Bhatade's GitHub Stats">
 </p>
 
-<!-- Featured Projects -->
-### Featured Projects
 <p align="center">
-  <a href="https://github.com/your-username/your-project">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=your-project&theme=radical" alt="Project Name">
+  <a href="https://github.com/brohit23/portfolio-website">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=portfolio-website&theme=radical" alt="Portfolio Website">
   </a>
-  <!-- Add more featured projects as needed -->
+  <a href="https://github.com/brohit23/react-app">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=react-app&theme=radical" alt="React App">
+  </a>
 </p>
 
 <!-- Contact Me -->
-### 📫 How to reach me:
-- Email: rohitbhatade200@gmail.com
-- Portfolio: [https://your-website-url](https://your-website-url)
-- LinkedIn: [https://linkedin.com/in/your-linkedin](https://linkedin.com/in/brohit23/)
+<h3 align="center">📫 How to reach me:</h3>
+<p align="center">
+  <a href="mailto:rohitbhatade200@gmail.com">rohitbhatade200@gmail.com</a><br>
+  Portfolio: <a href="https://your-portfolio-url.com">https://your-portfolio-url.com</a><br>
+  LinkedIn: <a href="https://linkedin.com/in/brohit23/">https://linkedin.com/in/brohit23/</a>
+</p>
 
 <!-- Footer -->
 <p align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=your-username.your-username" alt="Visitor Badge">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=brohit23.brohit23" alt="Visitor Badge">
 </p>
 
 <!-- Acknowledgements -->
-### Acknowledgements
-- Hat tip to anyone whose code was used
-- Inspirational quote or a fun fact
+<h3 align="center">Acknowledgements</h3>
+<p align="center">"Write code, inspire others!" 🚀</p>
 
 <!-- Footer -->
 <p align="center">
   Show some ❤️ by starring repositories!
 </p>
-
