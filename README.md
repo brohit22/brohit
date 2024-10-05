@@ -5,18 +5,21 @@
 
 <h1 align="center">Hi there! 👋 I'm Rohit Bhatade</h1>
 
-<!-- Introduction -->
-<p align="center">Passionate Web Developer with a flair for creativity and a knack for building stunning digital experiences.</p>
+<p align="center">🌟 Passionate Web Developer | Creative Problem Solver | JavaScript Enthusiast 🌟</p>
+
+---
 
 <!-- Social Links -->
 <p align="center">
-  <a href="#">Portfolio</a> •
-  <a href="https://twitter.com/Mr_Mic_200r">Twitter</a> •
-  <a href="https://www.linkedin.com/in/brohit23/">LinkedIn</a>
+  <a href="#">🌐 Portfolio</a> •
+  <a href="https://twitter.com/Mr_Mic_200r">🐦 Twitter</a> •
+  <a href="https://www.linkedin.com/in/brohit23/">💼 LinkedIn</a>
 </p>
 
+---
+
 <!-- Technologies & Tools -->
-<h3 align="center">Technologies & Tools</h3>
+<h3 align="center">🛠️ Technologies & Tools</h3>
 <p align="center">
   <img src="https://img.shields.io/badge/Code-JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow">
   <img src="https://img.shields.io/badge/Code-React.js-informational?style=for-the-badge&logo=react&logoColor=white&color=61dafb">
@@ -24,39 +27,49 @@
   <img src="https://img.shields.io/badge/Tools-Visual%20Studio%20Code-informational?style=for-the-badge&logo=visual-studio-code&logoColor=white&color=007ACC">
 </p>
 
-<!-- GitHub Stats & Featured Projects -->
-<!--<p align="center">
+---
+
+<!-- GitHub Stats -->
+<h3 align="center">📊 GitHub Stats</h3>
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=brohit23&show_icons=true&theme=radical" alt="Rohit Bhatade's GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=brohit23&layout=compact&theme=radical" alt="Top Languages">
 </p>
 
+---
+
+<!-- Featured Projects -->
+<h3 align="center">🚀 Featured Projects</h3>
 <p align="center">
   <a href="https://disney-clone-ochre.vercel.app">
-    <img src="https://github.com/brohit22/Disney-clone/assets/127715071/9cc1d432-9618-43bc-aeba-2e1f4c66605b" alt="Disney Clone">
-    
+    <img src="https://github.com/brohit22/Disney-clone/assets/127715071/9cc1d432-9618-43bc-aeba-2e1f4c66605b" alt="Disney Clone" width="45%" height="auto">
   </a>
-   <a href="https://github.com/brohit23/react-app">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=react-app&theme=radical" alt="React App">
+  <a href="https://mini-doc-app.vercel.app/">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=brohit23&repo=react-app&theme=radical" alt="React App" width="45%" height="auto">
   </a>
 </p>
- -->
+
+---
+
 <!-- Contact Me -->
 <h3 align="center">📫 How to reach me:</h3>
 <p align="center">
-  <a href="mailto:rohitbhatade200@gmail.com">rohitbhatade200@gmail.com</a><br>
-<!--   Portfolio: <a href="https://your-portfolio-url.com">https://your-portfolio-url.com</a><br> -->
+  <a href="mailto:rohitbhatade200@gmail.com">✉️ rohitbhatade200@gmail.com</a><br>
   LinkedIn: <a href="https://linkedin.com/in/brohit23/">https://linkedin.com/in/brohit23/</a>
 </p>
 
-<!-- Footer -->
-<p align="center">
- <img src="https://visitor-badge.glitch.me/badge?page_id=brohit23.brohit23" alt="Visitor Badge">
-</p>
+---
 
 <!-- Acknowledgements -->
-<h3 align="center">Acknowledgements</h3>
+<h3 align="center">Acknowledgements 💬</h3>
 <p align="center">"Write code, inspire others!" 🚀</p>
+
+---
 
 <!-- Footer -->
 <p align="center">
-  Show some ❤️ by starring repositories!
+  <img src="https://visitor-badge.glitch.me/badge?page_id=brohit23.brohit23" alt="Visitor Badge">
+</p>
+<p align="center">
+  Show some ❤️ by starring repositories and following!
 </p>
